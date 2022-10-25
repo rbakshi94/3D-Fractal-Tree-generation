@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+
+.menuBox {
+  position: absolute;
+  background-color: rgba(185, 185, 185, 0.7);
+  height: fit-content;
+  width: fit-content;
+  padding: 1%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.inputs {
+  width: 50px;
+  display: inline-block;
+}
+.labels {
+  text-align: right;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
